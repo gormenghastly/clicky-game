@@ -2,61 +2,61 @@
   {
     "id": 1,
     "name": "SquareOne",
-    "image": "sq1.jpg"
+    "image": "https://imgur.com/1bApDly"
   },
   {
     "id": 2,
     "name": "SquareTwo",
-    "image": "sq2.jpg"
+    "image": "https://imgur.com/TVtPbuB"
   },
   {
     "id": 3,
     "name": "SquareThree",
-    "image": "images/sq3.jpg"
+    "image": "https://imgur.com/fhWYPgT"
   },
   {
     "id": 4,
     "name": "SquareFour",
-    "image": "images/sq4.jpg"
+    "image": "https://imgur.com/E1QfAWs"
   },
   {
     "id": 5,
     "name": "SquareFive",
-    "image": "images/sq5.jpg"
+    "image": "https://imgur.com/BT98RtI"
   },
   {
     "id": 6,
     "name": "SquareSix",
-    "image": "images/sq6.jpg"
+    "image": "https://imgur.com/Cnzercq"
   },
   {
     "id": 7,
     "name": "SquareSeven",
-    "image": "images/sq7.jpg"
+    "image": "https://imgur.com/JRbTTFG"
   },
   {
     "id": 8,
     "name": "SquareEight",
-    "image": "images/sq8.jpg"
+    "image": "https://imgur.com/ehWKYvf"
   },
   {
     "id": 9,
     "name": "SquareNine",
-    "image": "images/sq9.jpg"
+    "image": "https://imgur.com/ctyVx7D"
   },
   {
     "id": 10,
     "name": "SquareTen",
-    "image": "images/sq10.jpg"
+    "image": "https://imgur.com/k9Cyq8l"
   },
   {
     "id": 11,
     "name": "SquareEleven",
-    "image": "images/sq11.jpg"
+    "image": "https://imgur.com/AR0zkpI"
   },
   {
     "id": 12,
     "name": "SquareTwelve",
-    "image": "images/sq12.jpg"
+    "image": "https://imgur.com/WHPkSzr"
   }
 ]
