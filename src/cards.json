@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "SquareOne",
+    "image": "sq1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "SquareTwo",
+    "image": "sq2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "SquareThree",
+    "image": "images/sq3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "SquareFour",
+    "image": "images/sq4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "SquareFive",
+    "image": "images/sq5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "SquareSix",
+    "image": "images/sq6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "SquareSeven",
+    "image": "images/sq7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "SquareEight",
+    "image": "images/sq8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "SquareNine",
+    "image": "images/sq9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "SquareTen",
+    "image": "images/sq10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "SquareEleven",
+    "image": "images/sq11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "SquareTwelve",
+    "image": "images/sq12.jpg"
+  }
+]
